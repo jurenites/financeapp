@@ -1,0 +1,123 @@
+.navbar-brand, .navbar-nav>li>a {
+    padding-top: 12px;
+    color: #c5c5c5;
+}
+.navbar-brand:hover {
+    color: #fff;
+}
+.navbar-nav>li>a:hover {
+    color: #000;
+}
+.form-actions a {
+    color: #000;
+}
+
+#mailing-address label {
+    margin-bottom: 15px;
+}
+
+.feeds.documents li {
+    padding: 10px;
+}
+
+.caption .required {
+    color: #cb5a5e;
+}
+
+.portlet > .portlet-title > .caption > a > i.fa-question-circle {
+    font-size: 2rem;
+}
+
+.portlet > .portlet-title > .caption > a {
+    color: #fff;
+}
+
+.popover-content {
+    display: none;
+}
+
+.popover .popover-content {
+    display: block;
+}
+
+.popover {
+    max-width: 350px;
+}
+
+.login .logo {
+    color: #fff;
+    font-size: 24px;
+}
+
+.feeds li .col2.wide-col2 {
+    width: 150px;
+    margin-left: -150px;
+}
+
+.chats .in .datetime {
+    float: right;
+}
+
+.scroller {
+    max-height: 200px;
+}
+.scroller.scroller-fixed {
+    height: 200px;
+}
+
+.request-status-portlet-body {
+    height: 220px;
+}
+
+#budget_categories_table td {
+    vertical-align: middle;
+}
+
+.additional-portlet-body {
+    height: 170px;
+}
+
+h3.page-title .label {
+    margin-left: 15px;
+}
+
+.static-info {
+    word-wrap: break-word;
+}
+
+#reportrange {
+    margin-left: 10px;
+}
+
+.page-content .page-title .bootstrap-select.form-control {
+    margin-left: 10px;
+    width: 240px;
+}
+
+#report-refresh, #report-csv {
+    margin-left: 10px;
+}
+
+.dashboard-calendar {
+    position: relative;
+    text-align: center;
+    height: 34px;
+    top: 15px;
+    margin-top: -34px;
+    z-index: 9999;
+}
+
+table.table-bordered>tfoot>tr>td {
+    border-left: 0;
+}
+
+.custom-popover {
+    font-size: 14px;
+    font-style: italic;
+    border-bottom: 1px dashed;
+    text-decoration: none;
+}
+
+.custom-popover:hover, .custom-popover:focus {
+    text-decoration: none;
+}
